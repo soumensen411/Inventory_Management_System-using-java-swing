@@ -82,13 +82,7 @@ inventory-management-system/
 ---
 ## 📸 Screenshots
 
-| Login | Dashboard | Product Dialog |
+| Login | Products Dialog | Suppliers Dialog |
 |-------|-----------|----------------|
-| ![Login](./screenshots/login.png) | ![Dashboard](./screenshots/dashboard.png) | ![Product Dialog](./screenshots/product-dialog.png) |
-## 📸 Screenshots
+| ![Login](inventory-management-system/screenshots/login.png) | ![Dashboard](inventory-management-system/screenshots/products.png) | ![Product Dialog](inventory-management-system/screenshots/suppliers.png) |
 
-<p align="center">
-  <img src="./screenshots/login.png" width="300" alt="Login Screen"/>
-  <img src="./screenshots/dashboard.png" width="600" alt="Dashboard"/>
-  <img src="./screenshots/product-dialog.png" width="600" alt="Product Management Dialog"/>
-</p>
